@@ -2,7 +2,7 @@
 ##Network Analysis and Malaria Epidemic Model##
 
 ####Project Description#### modegod
-##This project models malaria transmission through social networks incorporating household clustering, 
+##This project models malaria transmission through social networks incorporating household clustering, godfrey6
 ##geographic proximity, seasonal patterns, and vector-mediated transmission. 
 ##Various intervention strategies (ITNs, IRS, case management, mass screening) are evaluated.
 
@@ -451,6 +451,7 @@ cat("2. Increase asymptomatic_rate to 0.6 - how does this affect control?\n")
 cat("3. What if ITN coverage was 0.9 instead of 0.6?\n")
 cat("4. Identify the 3 highest-degree households - would targeting them be effective?\n")
 cat("5. How would you modify the model for urban vs rural transmission patterns?\n")
+
 
 
 
